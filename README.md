@@ -1,4 +1,4 @@
-# Duber-s-Revenge
+# Duber's-Revenge
 
 The final project for ICS3U6 - grade 11 pre-AP Computer Science.
 
